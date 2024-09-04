@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.Button?>
+<?import javafx.scene.layout.AnchorPane?>
+<?import javafx.scene.text.Text?>
+
+<AnchorPane maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" prefHeight="400.0" prefWidth="600.0" xmlns="http://javafx.com/javafx/21" xmlns:fx="http://javafx.com/fxml/1" fx:controller="com.mycompany.javafxapplication1.DeleteuserController">
+   <children>
+      <Text layoutX="249.0" layoutY="63.0" strokeType="OUTSIDE" strokeWidth="0.0" text="Delete User" />
+      <Button fx:id="deleteUserBtn" layoutX="265.0" layoutY="200.0" mnemonicParsing="false" onAction="#deleteUserBtnHandler" text="Confirm" />
+      <Text layoutX="199.0" layoutY="157.0" strokeType="OUTSIDE" strokeWidth="0.0" text="Click below to delete your user" />
+   </children>
+</AnchorPane>

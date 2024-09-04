@@ -1,0 +1,11 @@
+
+Feb 09, 2024 12:49:01 PM com.mycompany.javafxapplication1.FilemanagerController logUserActions
+INFO: User: kosi successfully performed: create on: kosi1.txt
+Feb 09, 2024 1:00:54 PM com.mycompany.javafxapplication1.FilemanagerController logUserActions
+INFO: User: kosi successfully performed: create on: koko.txt
+Feb 09, 2024 1:01:13 PM com.mycompany.javafxapplication1.FilemanagerController logUserActions
+INFO: User: kosi successfully performed: update on: koko.txt
+Feb 09, 2024 1:01:23 PM com.mycompany.javafxapplication1.FilemanagerController logUserActions
+INFO: User: kosi successfully performed: read on: koko.txt
+Feb 09, 2024 2:08:50 PM com.mycompany.javafxapplication1.FilemanagerController logUserActions
+INFO: User: kosi successfully performed: create on: 10.txt
